@@ -1,0 +1,2 @@
+review_id,order_id,customer_id,restaurant_id,review_text,rating,review_timestamp
+REV-000001,ORD-20260318-716963,CUST-10303,REST-DXB-001,Absolutely amazing Naan! The Naan was cooked to perfection. Fresh ingredients and authentic flavors. Highly recommend!,5,2026-03-24T10:56:52.622223
